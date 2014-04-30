@@ -7,7 +7,7 @@ This was an experiment with openCV I did a while back, to explore automatic dete
 
 SIFT is a great algorithm for scale invariant feature detection which was invented by David Lowe. It is described in this paper http://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf which is extremely readable.
 
-![alt tag](https://raw.github.com/aloyisus/AutoStabilize/blob/master/resize.gif)
+![alt tag](https://github.com/aloyisus/AutoStabilize/blob/master/resize.gif)
 
 
-![alt tag](https://raw.github.com/aloyisus/AutoStabilize/blob/master/stabil.gif)
+![alt tag](https://github.com/aloyisus/AutoStabilize/blob/master/stabil.gif)
