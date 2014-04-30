@@ -9,7 +9,7 @@ SIFT is a great algorithm for scale invariant feature detection which was invent
 
 The videos below illustrate this a bit more clearly:
 
-![screenshot](https://github.com/aloyisus/AutoStabilize/blob/master/resize.gif)
+[![screenshot](https://github.com/aloyisus/AutoStabilize/blob/master/resize.gif)]
 
 
-![screenshot](https://github.com/aloyisus/AutoStabilize/blob/master/stabil.gif)
+[![screenshot](https://github.com/aloyisus/AutoStabilize/blob/master/stabil.gif)]
